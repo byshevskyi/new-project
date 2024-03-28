@@ -2,8 +2,8 @@ first text
 
 git init new-project
 cd new-project
-git config --global user.name "Bogdan Byshevskyi"
-git config --global user.email "byshevskyi@gmail.com"
+git config --global user.name "name"
+git config --global user.email "email@email.com"
 git config --global init.defaultBranch "main"
 create file README.md
 git add README.md
